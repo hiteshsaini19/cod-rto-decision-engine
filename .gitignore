@@ -11,6 +11,3 @@ __pycache__/
 data/app.db
 data/orders_clean.csv
 data/*.tmp
-
-# local copy of the assignment brief (not part of the repo; the dataset lives in data/raw/)
-_assignment/
