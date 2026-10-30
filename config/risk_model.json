@@ -1,0 +1,229 @@
+{
+ "built_at": "2026-10-31T01:23:36",
+ "trained_on": {
+  "from": "2026-04-01",
+  "until": "2026-08-31",
+  "orders": 1655,
+  "rto_rate": 0.2894
+ },
+ "intercept": -2.158694838454851,
+ "weights": {
+  "addr_unusable": 1.6721663401079687,
+  "addr_incomplete": 0.27926379040408555,
+  "name_flag": 0.3632951467742401,
+  "phone_invalid": 0.9583020941808628,
+  "first_order": 0.9007444467710417,
+  "past_rto_1": 1.186178449634847,
+  "past_rto_2plus": 2.504713103482151,
+  "high_value": 0.5396570214412497,
+  "area_risk": 0.9344794461637337,
+  "meta_ads": 0.2369967579720554
+ },
+ "labels": {
+  "addr_unusable": "Address can't be delivered",
+  "addr_incomplete": "Address has no house/flat number",
+  "name_flag": "Name looks fake",
+  "phone_invalid": "Phone number is invalid",
+  "first_order": "First order from this customer",
+  "past_rto_1": "Customer refused 1 earlier COD order",
+  "past_rto_2plus": "Customer refused 2+ earlier COD orders",
+  "high_value": "High order value (Rs 1,500+)",
+  "area_risk": "Delivery area's past return rate",
+  "meta_ads": "Came from a Meta (Facebook/Instagram) ad"
+ },
+ "high_value_rs": 1500,
+ "areas": {
+  "overall": {
+   "n": 1655,
+   "rto": 479
+  },
+  "state": {
+   "Assam": {
+    "n": 52,
+    "rto": 17
+   },
+   "Bihar": {
+    "n": 129,
+    "rto": 68
+   },
+   "Delhi": {
+    "n": 201,
+    "rto": 49
+   },
+   "Karnataka": {
+    "n": 177,
+    "rto": 43
+   },
+   "Madhya Pradesh": {
+    "n": 104,
+    "rto": 39
+   },
+   "Maharashtra": {
+    "n": 318,
+    "rto": 57
+   },
+   "Rajasthan": {
+    "n": 138,
+    "rto": 42
+   },
+   "Tamil Nadu": {
+    "n": 122,
+    "rto": 26
+   },
+   "Telangana": {
+    "n": 152,
+    "rto": 40
+   },
+   "Uttar Pradesh": {
+    "n": 155,
+    "rto": 74
+   },
+   "West Bengal": {
+    "n": 107,
+    "rto": 24
+   }
+  },
+  "city": {
+   "Bareilly": {
+    "n": 26,
+    "rto": 16,
+    "state": "Uttar Pradesh"
+   },
+   "Bengaluru": {
+    "n": 177,
+    "rto": 43,
+    "state": "Karnataka"
+   },
+   "Chennai": {
+    "n": 122,
+    "rto": 26,
+    "state": "Tamil Nadu"
+   },
+   "Darbhanga": {
+    "n": 57,
+    "rto": 34,
+    "state": "Bihar"
+   },
+   "Delhi": {
+    "n": 200,
+    "rto": 49,
+    "state": "Delhi"
+   },
+   "Gorakhpur": {
+    "n": 40,
+    "rto": 27,
+    "state": "Uttar Pradesh"
+   },
+   "Guwahati": {
+    "n": 35,
+    "rto": 11,
+    "state": "Assam"
+   },
+   "Hyderabad": {
+    "n": 152,
+    "rto": 40,
+    "state": "Telangana"
+   },
+   "Indore": {
+    "n": 61,
+    "rto": 19,
+    "state": "Madhya Pradesh"
+   },
+   "Jaipur": {
+    "n": 105,
+    "rto": 27,
+    "state": "Rajasthan"
+   },
+   "Kolkata": {
+    "n": 107,
+    "rto": 24,
+    "state": "West Bengal"
+   },
+   "Kota": {
+    "n": 32,
+    "rto": 14,
+    "state": "Rajasthan"
+   },
+   "Lucknow": {
+    "n": 89,
+    "rto": 31,
+    "state": "Uttar Pradesh"
+   },
+   "Madhubani": {
+    "n": 2,
+    "rto": 2,
+    "state": "Bihar"
+   },
+   "Mumbai": {
+    "n": 181,
+    "rto": 34,
+    "state": "Maharashtra"
+   },
+   "Nagaon": {
+    "n": 17,
+    "rto": 6,
+    "state": "Assam"
+   },
+   "Patna": {
+    "n": 69,
+    "rto": 31,
+    "state": "Bihar"
+   },
+   "Pune": {
+    "n": 137,
+    "rto": 23,
+    "state": "Maharashtra"
+   },
+   "Sagar": {
+    "n": 43,
+    "rto": 20,
+    "state": "Madhya Pradesh"
+   }
+  }
+ },
+ "tested_on": {
+  "from": "2026-09-01",
+  "until": "2026-09-30",
+  "orders": 329,
+  "rto_rate": 0.2614,
+  "auc": 0.744,
+  "calibration": [
+   {
+    "band": "(0.0, 0.15]",
+    "orders": 71,
+    "predicted": 0.107,
+    "actual": 0.07
+   },
+   {
+    "band": "(0.15, 0.25]",
+    "orders": 125,
+    "predicted": 0.202,
+    "actual": 0.16
+   },
+   {
+    "band": "(0.25, 0.35]",
+    "orders": 54,
+    "predicted": 0.296,
+    "actual": 0.352
+   },
+   {
+    "band": "(0.35, 0.5]",
+    "orders": 41,
+    "predicted": 0.413,
+    "actual": 0.463
+   },
+   {
+    "band": "(0.5, 0.7]",
+    "orders": 28,
+    "predicted": 0.582,
+    "actual": 0.536
+   },
+   {
+    "band": "(0.7, 1.0]",
+    "orders": 10,
+    "predicted": 0.798,
+    "actual": 0.8
+   }
+  ]
+ }
+}

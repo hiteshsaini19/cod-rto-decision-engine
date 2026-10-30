@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# local environments / caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# runtime data (rebuilt automatically)
+data/app.db
+data/orders_clean.csv
+data/*.tmp
+
+# local copy of the assignment brief (not part of the repo; the dataset lives in data/raw/)
+_assignment/

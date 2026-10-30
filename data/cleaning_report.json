@@ -1,0 +1,17 @@
+{
+  "raw_rows": 2018,
+  "status_values_after_fix": {
+    "DELIVERED": 1444,
+    "RTO": 573,
+    "IN_TRANSIT": 1
+  },
+  "dropped_not_final": 1,
+  "dropped_exact_duplicates": 30,
+  "dropped_duplicate_order_ids": 0,
+  "invalid_phones": 17,
+  "missing_pincode": 12,
+  "missing_city": 4,
+  "zero_value_orders": 3,
+  "clean_rows": 1987,
+  "rto_rate": 0.2843
+}

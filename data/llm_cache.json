@@ -1,0 +1,971 @@
+{
+ "addr:0027025d0cc4f602": {
+  "english": "Near Water Tank, house named Green Park Niwas, Mumbai 400064",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:08464b3fc14165f5": {
+  "english": "Not usable; says 'call before coming' near a mosque, Lucknow, Uttar Pradesh 226072",
+  "issue": "Says to call before coming, no usable address details",
+  "quality": "unusable"
+ },
+ "addr:08a1e05a81555141": {
+  "english": "Near Hanuman Mandir, house named Sai Krupa Niwas, Delhi 110087",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:08ddd3ab75fbd845": {
+  "english": "Near Water Tank, house named Ganesh Niwas, Darbhanga, Bihar 846055",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:0e5a4c3833aad61f": {
+  "english": "Left from Station Chowk, in front of Government School, Hyderabad, Telangana 500049",
+  "issue": "Only landmarks and direction, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:0fcadd8b79360e86": {
+  "english": "Near Petrol Pump, house named Sunrise Niwas, Darbhanga, Bihar 846064",
+  "issue": "Only house name and landmark; no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:0feaba0dcd5e6a13": {
+  "english": "Inside lane number 9, near railway crossing, Delhi 110031",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:14b9b92e67ffb6d6": {
+  "english": "Inside Lane 11, near Petrol Pump, Sagar, Madhya Pradesh 470054",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:15a84fa485ca5428": {
+  "english": "House named Sunrise Niwas near Government School, Gorakhpur, Uttar Pradesh 273029",
+  "issue": "Only landmark (Government School) and house name (Sunrise Niwas); no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:15b2ddbd1afa01b8": {
+  "english": "Inside lane number 27, near Big Bazaar, Patna, Bihar 800036",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:165dee15cbc54d73": {
+  "english": "Inside Lane 8 near Water Tank, Mumbai, Maharashtra 400010",
+  "issue": "Only lane number (Lane 8) and landmark (Water Tank); no house number, street name, or area.",
+  "quality": "incomplete"
+ },
+ "addr:16885d23248e346f": {
+  "english": "Inside lane number 3, near Government School, Jaipur 302079",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:18d50680fdfc5507": {
+  "english": "Near Water Tank, house named Royal Niwas, Kolkata, West Bengal 700066",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:1907517432ae21a5": {
+  "english": "Inside Lane 1, near Government School, Darbhanga 846075",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:1b2b5dd675719ecf": {
+  "english": "Near Hanuman Temple, house named Ganesh Niwas, Gorakhpur, Uttar Pradesh 273046",
+  "issue": "Only house name and landmark; no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:1cfb1cd9b775bb1f": {
+  "english": "Left from Ring Chowk, opposite Masjid, Indore, Madhya Pradesh 452077",
+  "issue": "No house or building number; only landmarks and direction",
+  "quality": "incomplete"
+ },
+ "addr:1e024a35cf5905b0": {
+  "english": "Near Railway Crossing, house named Sai Krupa Niwas, Patna, Bihar 800013",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:1fb205473d991deb": {
+  "english": "Inside Lane 21, near Railway Crossing, Delhi 110097",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:222a68ab5e0a6384": {
+  "english": "Left from Tilak Chowk, in front of Hanuman Mandir, Chennai, Tamil Nadu 600051",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:2334f4ca6f4acfd5": {
+  "english": "Near Water Tank, house named Lotus Niwas, Jaipur, Rajasthan 302040",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:248840990733a79d": {
+  "english": "Near Petrol Pump, house named Green Park Niwas, Jaipur 302016",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:250a49a5a9c5bea1": {
+  "english": "Turn left from Link Chowk, in front of Water Tank, Kolkata 700032",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:25728146e1e317fd": {
+  "english": "Left from Tilak Chowk, opposite SBI Bank, Chennai, Tamil Nadu 600023",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:26a4702aba443df2": {
+  "english": "Turn left from Ring Chowk, in front of Railway Crossing, Darbhanga 846084",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:26b3393258a4a416": {
+  "english": "Call before delivery, near Hanuman Mandir, Chennai, Tamil Nadu 600077",
+  "issue": "No house number or street; only landmark (Hanuman Mandir) and instruction to call before delivery.",
+  "quality": "incomplete"
+ },
+ "addr:281771779b715b3a": {
+  "english": "Inside lane number 26, near Masjid, Chennai 600067",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:289829e5ba445bd5": {
+  "english": "Call before coming, near Big Bazaar, Mumbai, Maharashtra 400078",
+  "issue": "No address details; asks courier to call before coming",
+  "quality": "unusable"
+ },
+ "addr:28ca68f776dbcbb1": {
+  "english": "Inside lane number 28, near SBI Bank, Delhi 110074",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:29aae1de4de61e2e": {
+  "english": "Left from Tilak Chowk, in front of Railway Crossing, Delhi 110016",
+  "issue": "Only landmarks and direction, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:2a1cf8d8f4465c6e": {
+  "english": "Inside lane number 38, near Big Bazaar, Bengaluru, Karnataka 560033",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:2b0ca870bea289f9": {
+  "english": "Inside Lane 33, near Petrol Pump, Delhi 110054",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:2c5bcafae1150e66": {
+  "english": "Left from Gandhi Chowk, opposite Hanuman Temple, Gorakhpur, Uttar Pradesh 273033",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:2cce4a16bdaf850d": {
+  "english": "Inside lane number 19, near petrol pump, Indore, Madhya Pradesh 452005",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:34d7a8a0c15b7b1e": {
+  "english": "Near Government School, house named Lotus Niwas, Gorakhpur, Uttar Pradesh 273093",
+  "issue": "Only house name and landmark; no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:35226e3c0e1c9250": {
+  "english": "Left from Station Chowk, in front of Water Tank, Lucknow, Uttar Pradesh 226044",
+  "issue": "Only landmarks and directions (Station Chowk, Water Tank); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:36f1187a188f6263": {
+  "english": "Inside lane number 10, near Big Bazaar, Indore, Madhya Pradesh 452061",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:3917dda412c86ee6": {
+  "english": "Near Hanuman Mandir, house named Royal Niwas, Delhi, Delhi",
+  "issue": "Only house name and landmark, no street or area; pincode missing",
+  "quality": "incomplete"
+ },
+ "addr:3b35663967097850": {
+  "english": "House behind Big Bazaar, Lucknow, Uttar Pradesh 226069",
+  "issue": "Only a landmark (behind Big Bazaar); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:3c2554198dc4eb11": {
+  "english": "Turn left from Link Chowk, in front of Government School, Sagar 470053",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:3dc7e4764c87bad6": {
+  "english": "Turn left at Gandhi Chowk, opposite Petrol Pump, Jaipur, Rajasthan 302066",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:4010f5c8f9a81e0d": {
+  "english": "Near SBI Bank, house named Green Park Niwas, Delhi 110014",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:41358531528bd4a1": {
+  "english": "Inside lane number 21, near Masjid, Delhi 110028",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:413703cfa27c0276": {
+  "english": "Inside Lane 40, near SBI Bank, Patna, Bihar 800022",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:427837a06ff2893b": {
+  "english": "Near petrol pump, house named Ganesh Niwas, Gorakhpur, Uttar Pradesh 273031",
+  "issue": "No house number or street; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:42900053d8b133ea": {
+  "english": "Inside Lane 32, near Big Bazaar, Gorakhpur 273099",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:4409602aabb23b04": {
+  "english": "Left from Station Chowk, opposite SBI Bank, Patna, Bihar 800014",
+  "issue": "Only landmarks given, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:455870b4896ea8d4": {
+  "english": "Inside lane number 27, near mosque, Bengaluru, Karnataka 560082",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:458898df6006f642": {
+  "english": "Turn left from Gandhi Chowk, in front of SBI Bank, Lucknow 226082",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:471a545fce67096c": {
+  "english": "Near Petrol Pump, house named Sai Krupa Niwas, Pune, Maharashtra 411095",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:47525857a807d307": {
+  "english": "Near Railway Crossing, house named Lotus Niwas, Nagaon, Assam 782089",
+  "issue": "Only landmark and house name, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:4783bc47e5aefd1f": {
+  "english": "Left from Mall Chowk, in front of Government School, Patna, Bihar 800064",
+  "issue": "Only landmarks and directions (Mall Chowk, Government School); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:49e968044d780d14": {
+  "english": "Inside Lane 10, near Hanuman Temple, Jaipur, Rajasthan 302065",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:4cdbded41f35833e": {
+  "english": "Inside lane number 6, near Government School, Mumbai, Maharashtra 400088",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:4d059de58420e6c0": {
+  "english": "Left from MG Chowk, in front of petrol pump, Sagar, Madhya Pradesh 470011",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:4e58ab08fbcb8cf0": {
+  "english": "Inside lane number 3, near SBI Bank, Mumbai, Maharashtra 400018",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:4fc1ee6a6db91446": {
+  "english": "Left from Mall Chowk, in front of Water Tank, Delhi 110075",
+  "issue": "Only landmarks and direction, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:54c1b5210bdbbfd3": {
+  "english": "Left from Gandhi Chowk, opposite Big Bazaar, Hyderabad, Telangana 500057",
+  "issue": "No house or building number; only landmarks and direction",
+  "quality": "incomplete"
+ },
+ "addr:54eb0e9e777737b1": {
+  "english": "Near Government School, house named Green Park Niwas, Chennai, Tamil Nadu 600071",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:54eed52c6d98ab9c": {
+  "english": "House named Shanti Niwas, near Government School, Kota 324006",
+  "issue": "Only house name and landmark, no street or area details",
+  "quality": "incomplete"
+ },
+ "addr:555114d851c24202": {
+  "english": "Inside Lane 1, near Hanuman Temple, Delhi 110086",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:57a431dd068eab90": {
+  "english": "Near Water Tank, house named Sai Krupa Niwas, Delhi 110080",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:58f00e46469108fd": {
+  "english": "Call before delivery, near Railway Crossing, Bengaluru, Karnataka 560098",
+  "issue": "No house number or street; only landmark (Railway Crossing) and instruction to call before delivery.",
+  "quality": "incomplete"
+ },
+ "addr:5a2b15591702d275": {
+  "english": "Left from MG Chowk, opposite Hanuman Temple, Mumbai, Maharashtra 400013",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:5a9961f36fa5ca80": {
+  "english": "Inside lane number 38, near Railway Crossing, Delhi, Delhi 110057",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:5fa57340a36ffcac": {
+  "english": "Near Railway Crossing, house named Royal Niwas, Delhi 110063",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:619baeebadeeed1e": {
+  "english": "Inside Lane 37, near Hanuman Temple, Bengaluru, Karnataka 560002",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:61b5ec3e1aa39352": {
+  "english": "Near Big Bazaar, house named Sai Krupa Niwas, Jaipur, Rajasthan 302045",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:61d60df5959a448d": {
+  "english": "Near Railway Crossing, house named Green Park Niwas, Sagar, Madhya Pradesh 470066",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:634c40f9f1701d5b": {
+  "english": "Inside Lane 25, near Masjid, Chennai, Tamil Nadu 600060",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:63b014c453dc72db": {
+  "english": "Inside lane number 11, near government school, Jaipur, Rajasthan 302070",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:63dc9d9c22d4e273": {
+  "english": "Inside Lane 2, near Railway Crossing, Gorakhpur, Uttar Pradesh 273011",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:64c44c5d9cc24457": {
+  "english": "Inside Lane 7, near Hanuman Temple, Bengaluru, Karnataka 560023",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:6556ca333fcede8c": {
+  "english": "Call before delivery, near Petrol Pump, Kota, Rajasthan 324044",
+  "issue": "No house number or street; only landmark (Petrol Pump) and instruction to call before delivery.",
+  "quality": "incomplete"
+ },
+ "addr:6861b8e824256315": {
+  "english": "Near Big Bazaar, house named Om Niwas, Darbhanga 846093",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:6a463977bec7cbb3": {
+  "english": "Near Government School, house named Royal Niwas, Kolkata, West Bengal 700027",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:6ba427206f00b783": {
+  "english": "Inside lane number 22, near Petrol Pump, Patna 800033",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:6c6a99c3783cf9ff": {
+  "english": "House behind Petrol Pump, Gorakhpur, Uttar Pradesh 273026",
+  "issue": "Only a landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:6cb81ddb2d194ca4": {
+  "english": "Inside Lane 11, near Hanuman Temple, Jaipur 302074",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:6d04366fa08c01c1": {
+  "english": "Inside lane number 39, near Petrol Pump, Chennai, Tamil Nadu 600019",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:6e5ef9d1342eceda": {
+  "english": "Left from Gandhi Chowk, opposite Masjid, Gorakhpur, Uttar Pradesh 273082",
+  "issue": "No house or building number; only landmarks and direction",
+  "quality": "incomplete"
+ },
+ "addr:6ec189112d7b9931": {
+  "english": "Near Petrol Pump, house named Shanti Niwas, Lucknow, Uttar Pradesh 226047",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:719f5dd9ae309582": {
+  "english": "Left from Station Chowk, opposite Railway Crossing, Pune, Maharashtra 411073",
+  "issue": "Only landmarks and directions, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:71d0cd9033640ed1": {
+  "english": "Near Big Bazaar, house named Shanti Niwas, Pune, Maharashtra 411010",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:72ddf449e13aa178": {
+  "english": "Inside Lane 29 near Water Tank, Hyderabad, Telangana",
+  "issue": "Only lane number (Lane 29) and landmark (Water Tank); no house number, street name, area, or pincode.",
+  "quality": "incomplete"
+ },
+ "addr:735779bbf9a30044": {
+  "english": "Left from Tilak Chowk, opposite Water Tank, Bareilly, Uttar Pradesh 243077",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:7400b0beb7c15b39": {
+  "english": "Near Mosque, house named Shanti Niwas, Guwahati, Assam 781034",
+  "issue": "Only house name and landmark; no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:75c40b91a273cc16": {
+  "english": "Near railway crossing, house named Ganesh Niwas, Lucknow, Uttar Pradesh 226051",
+  "issue": "No house number or street; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:75e5ed41b59603b2": {
+  "english": "Near Masjid, house named Om Niwas, Kolkata, West Bengal 700041",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:76d09eaaeb0edd7a": {
+  "english": "Inside Lane 5, near Government School, Hyderabad, Telangana 500034",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:775877c10010ab39": {
+  "english": "Turn left from Mall Chowk, in front of SBI Bank, Hyderabad 500043",
+  "issue": "No house number or street; only chowk and bank landmark",
+  "quality": "incomplete"
+ },
+ "addr:7b98b05e74a1605f": {
+  "english": "Left from MG Chowk, in front of water tank, Delhi 110030",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:7bfe57c0c3b53fae": {
+  "english": "Near Petrol Pump, house named Royal Niwas, Bengaluru, Karnataka 560036",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:7c9b7a17da1f5703": {
+  "english": "Inside Lane 38, near SBI Bank, Chennai, Tamil Nadu 600099",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:7d4c1ce583b51bb4": {
+  "english": "Near Mosque, house named Sai Krupa Niwas, Mumbai, Maharashtra 400089",
+  "issue": "Only house name and landmark; no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:7d5d15ec3a5d49e9": {
+  "english": "Inside lane number 35, near Government School, Hyderabad 500036",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:7e2fcb75025a05fa": {
+  "english": "Inside Lane 17 near Masjid, Gorakhpur, Uttar Pradesh 273059",
+  "issue": "Only lane number (Lane 17) and landmark (Masjid); no house number, street name, or area.",
+  "quality": "incomplete"
+ },
+ "addr:7f2b3b415dbb4d40": {
+  "english": "Inside lane number 8, near Masjid, Kota 324037",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:8013cb52ac1b9e51": {
+  "english": "Left from Mall Chowk, in front of Petrol Pump, Hyderabad, Telangana 500082",
+  "issue": "Only landmarks and direction, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:8052d155efe42c06": {
+  "english": "Left from Gandhi Chowk, in front of government school, Bengaluru, Karnataka 560030",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:813df4afb9a52eff": {
+  "english": "Inside Lane 18, near Water Tank, Kolkata, West Bengal 700033",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:827f5523cbfbe1d8": {
+  "english": "House behind Government School, Bengaluru, Karnataka 560098",
+  "issue": "Only a landmark (behind Government School); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:8310fe2457923220": {
+  "english": "Near Big Bazaar, house named Green Park Niwas, Darbhanga, Bihar 846067",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:833fec17054ecf38": {
+  "english": "Inside lane number 25, near Railway Crossing, Bareilly, Uttar Pradesh 243038",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:84178aaeb361d20b": {
+  "english": "Not usable; says 'call before coming' near a government school, Chennai, Tamil Nadu 600077",
+  "issue": "Says to call before coming, no usable address details",
+  "quality": "unusable"
+ },
+ "addr:8480ccc7fc92a3e0": {
+  "english": "Inside Lane 16 near Railway Crossing, Bengaluru, Karnataka 560019",
+  "issue": "Only lane number (Lane 16) and landmark (Railway Crossing); no house number, street name, or area.",
+  "quality": "incomplete"
+ },
+ "addr:855c40743d4ea8fe": {
+  "english": "Turn left at Mall Chowk, opposite Railway Crossing, Patna, Bihar 800040",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:85f0f8ef2d4a7ed2": {
+  "english": "Turn left from Nehru Chowk, in front of Water Tank, Guwahati 781054",
+  "issue": "No house number or street; only chowk and water tank landmark",
+  "quality": "incomplete"
+ },
+ "addr:8926e3b66b2cb230": {
+  "english": "Inside Lane 18, near Government School, Nagaon, Assam 782078",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:89a1ebc9a56deb88": {
+  "english": "Near Big Bazaar, house named Sunrise Niwas, Darbhanga, Bihar 846040",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:8a207d4d21458618": {
+  "english": "Inside Lane 23, near Railway Crossing, Delhi 110061",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:8b1f918e5ee03a92": {
+  "english": "Turn left from MG Chowk, in front of SBI Bank, Bengaluru 560072",
+  "issue": "No house number or street; only chowk and bank landmark",
+  "quality": "incomplete"
+ },
+ "addr:8da0b64b01177890": {
+  "english": "House behind Hanuman Mandir, Darbhanga, Bihar 846074",
+  "issue": "Only a landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:8ddb42e31a4e4a14": {
+  "english": "Left from Tilak Chowk, opposite Petrol Pump, Bengaluru, Karnataka 560026",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:8eb459a60913ec9e": {
+  "english": "Turn left at MG Chowk, opposite Government School, Lucknow, Uttar Pradesh 226029",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:8edb67843864d28f": {
+  "english": "Left from Nehru Chowk, opposite Masjid, Nagaon, Assam 782086",
+  "issue": "Only landmarks given, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:8fca266dbbbf9710": {
+  "english": "Near SBI Bank, house named Ganesh Niwas, Gorakhpur, Uttar Pradesh 273081",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:8fd5a251972d71e9": {
+  "english": "Inside Lane 38, near Mosque, Kota 324088",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:8ff2f517623ab9f8": {
+  "english": "Turn left at Tilak Chowk, opposite Big Bazaar, Kolkata, West Bengal 700047",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:92d7ab76517785cd": {
+  "english": "Near Masjid, house named Ganesh Niwas, Patna 800088",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:93bfa36ac473f6f0": {
+  "english": "Inside lane number 15, near Petrol Pump, Hyderabad, Telangana 500083",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:9506b8a37850d2e3": {
+  "english": "Inside Lane 27, near Petrol Pump, Chennai, Tamil Nadu 600061",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:9710a99842f3d750": {
+  "english": "Inside lane number 33, near Government School, Bengaluru, Karnataka 560029",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:97362279c510058b": {
+  "english": "Left from Station Chowk, opposite Big Bazaar, Darbhanga, Bihar 846012",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:9ae0d449805e2074": {
+  "english": "Near Hanuman Temple, house named Green Park Niwas, Hyderabad, Telangana 500072",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:9b56adeb63a6cfa6": {
+  "english": "Left from Link Chowk, opposite SBI Bank, Indore, Madhya Pradesh 452026",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:9caca8b99d1c8401": {
+  "english": "Inside lane number 8, near government school, Jaipur, Rajasthan 302018",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:9df0a1dbebd36f7f": {
+  "english": "Inside lane number 6, near Petrol Pump, Jaipur, Rajasthan 302023",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:9ecd9f2e7035d4a2": {
+  "english": "House named Ganesh Niwas, near Big Bazaar, Pune 411075",
+  "issue": "Only house name and landmark, no street or area details",
+  "quality": "incomplete"
+ },
+ "addr:9f61c500c36571d3": {
+  "english": "Inside Lane 14, near Mosque, Delhi 110059",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:a038df2f839d92ac": {
+  "english": "Near SBI Bank, house named Royal Niwas, Darbhanga, Bihar 846055",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:a118de7ea00989c5": {
+  "english": "Inside Lane 23, near Petrol Pump, Sagar, Madhya Pradesh 470091",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:a1f3bd36c4ca7af6": {
+  "english": "Near Masjid, house named Green Park Niwas, Darbhanga, Bihar 846008",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:a1f4d0c64a95c3cb": {
+  "english": "Left from Ring Chowk, opposite Water Tank, Chennai, Tamil Nadu 600095",
+  "issue": "No house or building number; only landmarks and direction",
+  "quality": "incomplete"
+ },
+ "addr:a2818461e97585c7": {
+  "english": "Near Government School, house named Om Niwas, Lucknow, Uttar Pradesh 226092",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:a356a92c88f20cba": {
+  "english": "Inside lane number 30, near Hanuman Mandir, Mumbai, Maharashtra 400071",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:a47bb66c91be4356": {
+  "english": "Left from MG Chowk, in front of Big Bazaar, Lucknow, Uttar Pradesh 226030",
+  "issue": "Only landmarks and directions (MG Chowk, Big Bazaar); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:a490266717560bf1": {
+  "english": "Inside lane number 35, near Big Bazaar, Delhi, Delhi 110098",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:a6b8aa7ad64fc123": {
+  "english": "Turn left from Station Chowk, in front of Petrol Pump, Kolkata 700012",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:ab71afbc851a59cc": {
+  "english": "Inside lane number 35, near Petrol Pump, Bengaluru, Karnataka 560037",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:abad1d7b6b670324": {
+  "english": "Inside Lane 1, near Mosque, Bengaluru, Karnataka 560096",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:ad36a4861f7a8e3d": {
+  "english": "Inside Lane 24, near Petrol Pump, Kota 324034",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:ae52c4b8ba154d06": {
+  "english": "Left from Station Chowk, opposite Hanuman Temple, Hyderabad, Telangana 500036",
+  "issue": "Only landmarks given, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:af51223d2b53acf1": {
+  "english": "Call before delivery, near SBI Bank, Sagar, Madhya Pradesh 470031",
+  "issue": "No house number or street; only landmark (SBI Bank) and instruction to call before delivery.",
+  "quality": "incomplete"
+ },
+ "addr:af90f950a0819267": {
+  "english": "Left from Gandhi Chowk, opposite Water Tank, Nagaon, Assam 782019",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:afeb2b9a548724b1": {
+  "english": "Near Hanuman Mandir, house named Sunrise Niwas, Delhi 110077",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:b1558e1640443630": {
+  "english": "House behind SBI Bank, Mumbai, Maharashtra 400014",
+  "issue": "No house number or street; only landmark description",
+  "quality": "incomplete"
+ },
+ "addr:b359b73c56721331": {
+  "english": "Inside Lane 7, near Big Bazaar, Lucknow 226017",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:b3f78354d6ba6c7d": {
+  "english": "Inside lane number 36, near railway crossing, Indore, Madhya Pradesh 452065",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:b7a229d545e7c1c3": {
+  "english": "Turn left at Tilak Chowk, opposite Masjid, Bengaluru, Karnataka 560002",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:b869552d30f1f766": {
+  "english": "Left from Tilak Chowk, opposite Government School, Mumbai, Maharashtra 400023",
+  "issue": "Only landmarks given, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:ba6f825d4dd557b6": {
+  "english": "Near Hanuman Mandir, house named Lotus Niwas, Chennai, Tamil Nadu 600045",
+  "issue": "Only house name and landmark, no street/area or house number",
+  "quality": "incomplete"
+ },
+ "addr:baa9101696aaab48": {
+  "english": "Left from Ring Chowk, opposite Big Bazaar, Bareilly, Uttar Pradesh 243073",
+  "issue": "No house number or street; only landmarks given.",
+  "quality": "incomplete"
+ },
+ "addr:bd171d5288550f6e": {
+  "english": "Inside lane number 14, near Big Bazaar, Kota, Rajasthan 324004",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:bfb89155e36b0a5c": {
+  "english": "Near SBI Bank, house named Om Niwas, Pune, Maharashtra 411018",
+  "issue": "No house number or street; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:c00f8690f6cc49e9": {
+  "english": "Left from Nehru Chowk, in front of Big Bazaar, Kota, Rajasthan 324056",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:c206a04d4a6a395d": {
+  "english": "Inside Lane 22, near Mosque, Bengaluru 560012",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:c568b38692fbb57e": {
+  "english": "Inside Lane 5, near Petrol Pump, Patna, Bihar 800012",
+  "issue": "Only lane number and landmark, no house number or area",
+  "quality": "incomplete"
+ },
+ "addr:c5d3f672347dd2e2": {
+  "english": "Inside Lane 10, near Petrol Pump, Jaipur, Rajasthan 302085",
+  "issue": "Only lane number and landmark; no street name, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:c64a95cf867a20be": {
+  "english": "Turn left from Link Chowk, in front of Railway Crossing, Sagar 470039",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:c7b3133ef9604892": {
+  "english": "Turn left from Ring Chowk, in front of Petrol Pump, Kolkata 700077",
+  "issue": "No house number or street; only chowk and petrol pump landmark",
+  "quality": "incomplete"
+ },
+ "addr:ca34eeb20c8b33b2": {
+  "english": "Near Hanuman Mandir, house named Shanti Niwas, Kolkata, West Bengal 700083",
+  "issue": "Only landmark and house name, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:cb679dc39f6b0d59": {
+  "english": "Lane near Hanuman Temple, 3rd house on the left side, below the grocery store.",
+  "issue": "",
+  "quality": "complete"
+ },
+ "addr:ccc2ede656c06786": {
+  "english": "Inside lane number 29, near Big Bazaar, Telangana 500088",
+  "issue": "Missing city; only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:cd0cf86dd64340dd": {
+  "english": "House behind Water Tank, Guwahati, Assam 781053",
+  "issue": "Only a landmark (behind water tank); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:cefd189da6b11c48": {
+  "english": "Turn left at Link Chowk, opposite Hanuman Mandir, Hyderabad, Telangana 500012",
+  "issue": "Only landmarks provided, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:cf3eb426f7e4d961": {
+  "english": "Call before delivery, near Water Tank, Mumbai, Maharashtra 400019",
+  "issue": "No house number or street; only landmark (Water Tank) and instruction to call before delivery.",
+  "quality": "incomplete"
+ },
+ "addr:d24eb7bef4f0410a": {
+  "english": "Turn left from Link Chowk, in front of Big Bazaar, Delhi 110046",
+  "issue": "No house number or street; only chowk and landmark directions",
+  "quality": "incomplete"
+ },
+ "addr:d39f3bf6f50f6cdc": {
+  "english": "House named Om Niwas near Water Tank, Gorakhpur, Uttar Pradesh 273091",
+  "issue": "Only landmark (Water Tank) and house name (Om Niwas); no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:d52d806312bf18e6": {
+  "english": "Inside Lane 24, near Government School, Bengaluru 560047",
+  "issue": "No house or flat number, only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:d588f0588e00a3e4": {
+  "english": "Near Masjid, house named Royal Niwas, Pune, Maharashtra 411013",
+  "issue": "Only landmark and house name, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:da6c72482bee8a43": {
+  "english": "Near SBI Bank, house named Shanti Niwas, Sagar 470084",
+  "issue": "No house number or street; only a house name and landmark",
+  "quality": "incomplete"
+ },
+ "addr:dc445a6b381bc51b": {
+  "english": "Near Government School, house named Ganesh Niwas, Bengaluru, Karnataka 560039",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:dd17b82983f41cf0": {
+  "english": "Inside lane number 3, near mosque, Lucknow, Uttar Pradesh 226010",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:de028b1197d224ca": {
+  "english": "Inside lane number 33, near Big Bazaar, Darbhanga 846034",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:de0e23c36703ff79": {
+  "english": "Inside lane number 31, near Hanuman Mandir, Kota, Rajasthan 324072",
+  "issue": "Only lane number and landmark, no house number or street name",
+  "quality": "incomplete"
+ },
+ "addr:e05f0c4f4e934bc8": {
+  "english": "Inside lane number 14, near SBI Bank, Lucknow, Uttar Pradesh 226014",
+  "issue": "Only lane number and landmark, no house number",
+  "quality": "incomplete"
+ },
+ "addr:e36c2a5283cccaf1": {
+  "english": "Inside Lane 28, near Government School, Bengaluru, Karnataka 560014",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:e6f0c8fd2c5e6b3e": {
+  "english": "Left from Ring Chowk, in front of SBI Bank, Indore, Madhya Pradesh 452078",
+  "issue": "Only landmarks and directions (Ring Chowk, SBI Bank); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:e71a793baa046b80": {
+  "english": "Near Masjid, house named Lotus Niwas, Nagaon, Assam 782079",
+  "issue": "Only house name and landmark, no street or area",
+  "quality": "incomplete"
+ },
+ "addr:e85e8ec5f2d69c5c": {
+  "english": "Turn left from MG Chowk, in front of Mosque, Hyderabad 500073",
+  "issue": "Only directions from a chowk and a landmark, no house or street number",
+  "quality": "incomplete"
+ },
+ "addr:e91ad19d11f8cc2f": {
+  "english": "Near Government School, house named Sai Krupa Niwas, Mumbai, Maharashtra 400083",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:ebe37dc5ecd2c824": {
+  "english": "Inside Lane 7, near SBI Bank, Darbhanga, Bihar 846005",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:eed9016e73d33f58": {
+  "english": "Near SBI Bank, house named Sai Krupa Niwas, Guwahati, Assam 781071",
+  "issue": "No house number or street; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:ef15384032502713": {
+  "english": "Left from Ring Chowk, in front of Hanuman Mandir, Sagar, Madhya Pradesh 470088",
+  "issue": "Only landmarks and directions; no house number or street",
+  "quality": "incomplete"
+ },
+ "addr:f2b6e0f53116899a": {
+  "english": "House named Om Niwas near Hanuman Mandir, Delhi 110022",
+  "issue": "Only landmark (Hanuman Mandir) and house name (Om Niwas); no street, area, or house number.",
+  "quality": "incomplete"
+ },
+ "addr:f35404a2152b8fd1": {
+  "english": "Inside Lane 16, near SBI Bank, Jaipur, Rajasthan 302006",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:f3e37123c731df93": {
+  "english": "Inside lane number 8, near Big Bazaar, Kolkata, West Bengal 700096",
+  "issue": "Only lane number and landmark; no house number",
+  "quality": "incomplete"
+ },
+ "addr:f3f63b1bb822338a": {
+  "english": "House behind Masjid, Chennai, Tamil Nadu 600038",
+  "issue": "Only landmark given, no house number, street, or area",
+  "quality": "incomplete"
+ },
+ "addr:f5279c964f6f819a": {
+  "english": "Near Railway Crossing, house named Om Niwas, Pune, Maharashtra 411034",
+  "issue": "No street or area; only landmark and house name",
+  "quality": "incomplete"
+ },
+ "addr:f699aee2131ae8ce": {
+  "english": "Inside Lane 22, near Water Tank, Bareilly, Uttar Pradesh 243042",
+  "issue": "No house or building number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "addr:f69aea64071b6cf7": {
+  "english": "Inside lane number 31, near SBI Bank, Gorakhpur, Uttar Pradesh 273003",
+  "issue": "Only lane number and landmark, no house/flat number or area/street",
+  "quality": "incomplete"
+ },
+ "addr:f70f772a1f98d171": {
+  "english": "House behind Railway Crossing, Lucknow, Uttar Pradesh 226078",
+  "issue": "Only a landmark (behind Railway Crossing); no house number or street.",
+  "quality": "incomplete"
+ },
+ "addr:fab2f14a75dec440": {
+  "english": "Inside lane number 15, near Government School, Kolkata 700035",
+  "issue": "No house number; only lane number and landmark",
+  "quality": "incomplete"
+ },
+ "reply:3ec5b149fbeed586": {
+  "intent": "yes",
+  "summary": "Customer confirms order for delivery tomorrow evening"
+ }
+}

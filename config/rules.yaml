@@ -1,0 +1,72 @@
+# =====================================================================
+#  COD ORDER RULES  -  safe to edit (or use the "Settings" page in the app)
+#
+#  Change a number, save this file, and the very next order uses it.
+#  No code changes and no restart needed.
+#  "risk" = the chance (in %) that a COD order is refused / comes back (RTO).
+# =====================================================================
+
+# --- 1. Which action for which risk -------------------------------------
+# Below nudge_from_risk_pct                  -> Ship as-is
+# From nudge_from_risk_pct to confirm        -> Nudge to prepaid (discount offer)
+# From confirm_from_risk_pct to hold         -> Ship only after WhatsApp confirmation
+# From hold_from_risk_pct and above          -> Hold (ship only if the customer fixes it / pays online)
+thresholds:
+  nudge_from_risk_pct: 25
+  confirm_from_risk_pct: 35
+  hold_from_risk_pct: 75
+
+# --- 2. Always hold, whatever the risk % says ---------------------------
+hold_rules:
+  hold_if_address_unusable: true      # e.g. "xyz", ".", "call me", only a city name
+  hold_if_fake_name: true             # e.g. "asdf", "test", "qwerty"
+  hold_if_phone_invalid: true         # we can't reach them on WhatsApp or by call
+  hold_if_past_returns_at_least: 2    # customer refused this many earlier COD orders
+  hold_if_order_value_zero: true      # a Rs 0 COD order is almost always a data error
+
+# --- 3. Protecting new customers (Marketing's concern) -------------------
+customer_protection:
+  # A first-time buyer with no hard red flag above is never held just because
+  # of a high risk %. They get a WhatsApp confirmation instead.
+  never_hold_first_order_on_risk_alone: true
+
+# --- 4. Other checks -----------------------------------------------------
+checks:
+  duplicate_window_minutes: 60        # same phone orders again within this time -> confirm first
+  min_orders_to_trust_city_rate: 15  # fewer past orders than this -> use the state's rate instead
+
+# --- 5. Money (Rs) -------------------------------------------------------
+money:
+  forward_shipping_rs: 65
+  return_shipping_rs: 65
+  packaging_handling_rs: 25
+  damaged_return_pct: 8               # % of returned products that can't be resold
+  avg_product_cost_rs: 180
+  gross_margin_pct: 62                # margin on a delivered order (before shipping & packing)
+  customer_acquisition_cost_rs: 300   # cost to win a customer back if we lose a genuine one
+  prepaid_rto_pct: 4
+  prepaid_discount_rs: 50             # discount offered in the "pay online" nudge
+  whatsapp_utility_msg_rs: 0.15       # order-update message (confirmation, reminder)
+  whatsapp_marketing_msg_rs: 0.90     # message with an offer (prepaid nudge)
+  cod_orders_per_month: 1650          # 3,000 orders x 55% COD - used to scale results to a month
+
+# --- 6. How customers behave (our best estimates - measure and update) ---
+assumptions:
+  confirm_catches_rto_pct: 45         # of orders that would come back, % stopped by confirmation ("no" or no reply)
+  confirm_loses_genuine_pct: 5        # of genuine buyers, % who miss the message and get cancelled
+  nudge_converts_genuine_pct: 30      # of genuine buyers, % who switch to prepaid when offered the discount
+  nudge_converts_rto_pct: 10          # of would-be-refused buyers, % who switch to prepaid
+  hold_recovers_genuine_pct: 80       # of genuine buyers asked to fix address/details, % who do it
+  hold_catches_rto_pct: 70            # of would-be returns asked to fix address/details, % who never do (not shipped)
+  hold_pay_online_genuine_pct: 40     # of genuine buyers on a "pay online only" hold, % who pay
+
+# --- 7. WhatsApp timing --------------------------------------------------
+whatsapp:
+  quiet_hours_start: 21               # don't message after 9 pm ...
+  quiet_hours_end: 9                  # ... or before 9 am (message waits till 9 am)
+  reminder_after_hours: 12            # confirmation / hold: one reminder after this long
+  give_up_after_hours: 24             # confirmation / hold: decide after this long with no reply
+  nudge_wait_hours: 12                # prepaid offer: no reply by then -> ship as COD (don't delay delivery)
+  confirm_no_reply_action: cancel     # cancel | ship   (confirmation flow, no reply in 24h)
+  hold_no_reply_action: cancel        # cancel | ship   (hold flow, no reply in 24h)
+  max_unclear_replies: 2              # after this many confusing replies, hand over to a person
